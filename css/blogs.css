@@ -1,0 +1,124 @@
+
+h1 {
+    margin: 5% 0;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+h2 {
+    margin: 3% 0;
+    font-family: "Oswald";
+    font-size: 2.2rem;
+    line-height: 1.5;
+
+}
+
+h5 {
+    font-size: 1.4rem;
+    margin-top: 5%;
+}
+
+p {
+    margin-top: 5%;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+    background-color: #04dbc3;
+    padding: 2%;
+
+}
+
+.navbar-brand {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.1rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.brand-fname {
+    background-color: #000000;
+    color: #fff;
+}
+
+.nav-item {
+    margin: 0 50px;
+    padding: 0 5px;
+
+
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+
+}
+
+
+.nav-link:hover {
+    color: #000000fb;
+}
+
+/* Content Section */
+
+#contents {
+
+    padding: 2% 5%;
+    margin: 4% 0;
+    background-color: #ffffff;
+
+}
+
+.content-list {
+    margin: 5% 0;
+}
+
+.content-list li {
+    font-size: 1.3rem;
+    margin-top: 3%;
+}
+
+.tech-name{
+    text-decoration: none;
+    color: #000000;
+}
+
+.tech-img {
+    width: 70%;
+}
+
+.title-img {
+    width: 60%;
+}
+
+/* Back to Top link */
+
+.top-link{
+    margin-left: 80%;
+    font-size:1.2rem;
+}
+
+/* Footer  */
+
+#footer {
+    padding: 2%;
+    background-color: #DDDDDD;
+    text-align: center;
+    color: #000000;
+}
+
+#footer p {
+    margin: 5px;
+    font-size: 1rem;
+}
+
+.footer-icons {
+    margin: 40px 20px;
+}
