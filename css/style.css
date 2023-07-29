@@ -15,7 +15,7 @@ h1 {
 /* Navigation */
 
 .navbar {
-    background-color: #68b0ab;
+    background-color: #18dbc1;
     padding: 2%;
 }
 
@@ -79,20 +79,22 @@ h1 {
 }
 
 .cards {
-    background-color: #68b0ab;
+    background-color: #18dbc1;
 }
 
 .card {
     height: 100%;
     width: 100%;
-    background-color: #000000;
+    background-color: #07015d;
     color: white;
-    box-shadow: 0 5px 15px #0000002e;
-    border-radius: 5px;
+    box-shadow: 0 2px 10px #0e38dfe6;
+    border-radius: 10px;
 }
 
 .card img {
     height: 200px;
+    border: 3px solid #64fd05;
+    
 }
 
 .login-btn {
@@ -123,9 +125,6 @@ h1 {
     box-shadow: 0 0.5em 1.5em -0.5em #14d648b7;
 }
 
-.login-btn {
-    box-shadow: 0 0.3em 1em -0.5em #74827898;
-}
 
 #login-header {
     background-color: #1f1e1e;

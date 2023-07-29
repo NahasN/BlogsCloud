@@ -1,6 +1,6 @@
 
 .navbar {
-    background-color: #68B0AB;;
+    background-color: #18dbc1;;
     padding: 2%;
 
 }
@@ -111,6 +111,34 @@
   }
   
  
+.login-btn {
+  width: 80px;
+  height: 45px;
+  margin-left: 80px;
+  display: flex;
+  align-items: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 0.7em 1.4em 0.7em 1.1em;
+  color: rgb(0, 0, 0);
+  background: #ad5389;
+  background: linear-gradient(0deg,
+          rgba(20, 167, 62, 1) 0%,
+          rgba(102, 247, 113, 1) 100%);
+  border: none;
+  box-shadow: 0 0.7em 1.5em -0.5em #6ea97f98;
+  letter-spacing: 0.05em;
+  border-radius: 20em;
+  cursor: pointer;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+.login-btn:hover {
+  box-shadow: 0 0.5em 1.5em -0.5em #14d648b7;
+}
+
 
 
 
