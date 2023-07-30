@@ -1,3 +1,6 @@
+
+
+
 body {
     margin: 0;
     padding: 0;
@@ -162,5 +165,5 @@ card-img-top {
 }
 
 #footer a:hover {
-    color: green;
+    color: #18dbc1;
 }
